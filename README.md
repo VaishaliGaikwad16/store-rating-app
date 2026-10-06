@@ -263,8 +263,3 @@ The application has been tested locally for:
 * MySQL database integration
 * Input validation
 
-## Important
-
-Do not commit the `.env` file, database password, JWT secret, or any other credentials to GitHub.
-
-This project is intended to be run locally using React, Node.js, Express.js and MySQL.
